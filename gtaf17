@@ -1,62 +1,24 @@
-[Update F17City ngày 1-9 | Phiên bản 1.5] 
-
-Quan trọng:
-  - Diễn ra sự kiện trung thu xuyên suốt tháng 9.
-  - Ra mắt vật phẩm “Cẩm nang tân thủ” cho toàn bộ công dân. Công dân mới sẽ tự có trong “Hộp quà tân thủ”, Các công dân cũ có thể mua cẩm nang tại tạp hóa.
-  - Thay đổi toàn bộ số serial của vật phẩm - vũ khí để dễ kiểm soát hơn .
-	+ Các vật phẩm - vũ khí công dân đã sở hữu sẽ vẫn giữ số serial cũ, chỉ áp dụng cho các vật phẩm mới có sau bản cập tháng 9).
-	+ Mẫu serial mới: F17-GTA-123456 (Công dân) và F17-CS-12345678 (Cảnh sát)
-  - Cập nhật quần áo mới (Có thể nhiều bộ đồ của công dân sẽ bị thay đổi, phải đi mua sắm quần áo lại).
-
 Sự kiện:
-  - [Sự kiện trung thu]:
+  - [Sự kiện trung thu]: Diễn ra xuyên suốt tháng 9
     + Các ngành nghề sẽ ra vật phẩm sự kiện: Thu hoạch - Làm gà - Vệ sinh.
     + Sau khi có vật phẩm của 3 nghề trên, công dân lại npc sự kiện ở Gara trung tâm để chế tạo lồng đèn.
     + Tích trữ lồng đèn đến ngày 10-12/9 và 28-30/9, sẽ xuất hiện npc đổi thưởng phần quà từ lồng đèn đã chế tạo.
 
-Map:
-  - Trang trí Gara F17.
-  - Trang trí Bệnh viện F17.
-  - Trang trí Xưởng độ F17.
-
-Phương tiện:
-  - Thêm xe mới
-  - Tùy chỉnh thông số nhiều phương tiện
-
 Ngành nghề:
   - [Vệ sinh]:
-    + Ra mắt nghề vệ sinh 2.0.
-    + Công dân có thể tạo tổ đội để cùng tham gia làm nghề vệ sinh với nhau (Tối đa 4 công dân 1 tổ đội - Càng đủ số lượng thì thời gian làm càng nhanh).
-
-Doanh nghiệp:
-  - [Cà phê Mèo]:
-    + Thay đổi menu món ăn trung thu.
-
-Ban ngành:
-  - Cập nhật hệ thống hoá đơn mới cho ban ngành Cảnh sát - Bác sĩ F17.
-  - [Cảnh sát]:
-    + Ra mắt “Token Chiến sĩ” dành cho những Cảnh sát chăm chỉ hoạt động (Sẽ được phát bởi Cảnh sát trưởng) dùng để quy đổi các vật phẩm cho Cảnh sát.
-    + Ra mắt “Súng lục MK2”, “Đạn súng lục (CS)”, “Áo giáp (CS)” dành riêng cho Cảnh sát.
-    + Lưu ý: Súng - đạn - áo giáp chỉ dành riêng cho ban ngành Cảnh sát, không thể sử dụng chung với súng hoặc đạn của công dân.
-    + Thay đổi vị trí Chấm công và Dừng làm việc (Sang khu vực tiếp dân sảnh chính).
-  - [Bác sĩ]:
-    + Thay đổi vị trí Chấm công và Dừng làm việc (Sang khu vực gần chỗ treo quần áo).
+    + Ra mắt nghề vệ sinh 2.0 | Công dân có thể tạo tổ đội để cùng tham gia làm nghề vệ sinh với nhau (Tối đa 4 công dân 1 tổ đội).
 
 Chung:
-  - Ra mắt battlepass tháng 9.
-  - Ra mắt hòm quay tháng 9 và các gói combo mới.
-  - Ra mắt loading phiên bản mới và hình nền trung thu.
-  - Ra mắt npc tìm xe tại Bãi giam xe thành phố.
-  - Ra mắt cơ chế quy đổi vật phẩm tại npc thương xá.
-  - Ra mắt “Bộ sơ cứu” (Giúp hồi máu nhiều hơn “Băng cá nhân”) - “Thuốc giảm đau” (Có tỉ lệ giảm mất máu khi bị thương) | Đều có thể mua tại Tạp hóa F17.
-  - Update hoạt động Bowling mới.
+  - [Ra mắt]:
+    + Battlepass + Hòm quay tháng 9 và các gói combo mới.
+    + NPC Định vị xe tại Bãi giam xe thành phố
+    + Cơ chế quy đổi vật phẩm tại npc thương xá
+    + Vật phẩm “Token nhiệm vụ” để làm mới nhiệm vụ hằng ngày (Hoàn thành các cột mốc level trong Battlepass hoặc mua trực tiếp tại NPC nhiệm vụ hằng ngày với giá $25000).
+    + Vật phẩm “Cẩm nang tân thủ” - “Bộ sơ cứu” (Giúp hồi máu nhiều hơn “Băng cá nhân”) - “Thuốc giảm đau” (Có tỉ lệ giảm mất máu khi bị thương) | Đều có thể mua tại Tạp hóa F17.
+- Update hoạt động Bowling mới.
   - Update hoạt động Bóng đá.
-
-  - [Nhiệm vụ]:
-    + Thay đổi phương thức làm mới nhiệm vụ hằng ngày.
-    + Thêm vật phẩm “Token nhiệm vụ” để làm mới nhiệm vụ hằng ngày (Hoàn thành các cột mốc level trong Battlepass hoặc mua trực tiếp tại NPC nhiệm vụ hằng ngày với giá $25000).
-
   - [Chỉnh sửa]:
+    + Thay đổi toàn bộ số serial của vật phẩm - vũ khí để dễ kiểm soát hơn.
     + Tỉ lệ hồi máu, giảm đau của Băng cá nhân - Bộ sơ cứu - Thuốc giảm đau.
     + Thời gian khi chọn và tải nhân vật vào thành phố.
     + Khoảng cách hiển thị chữ của npc.
