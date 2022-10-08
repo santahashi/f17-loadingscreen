@@ -1,9 +1,10 @@
 [Update F17City ngày 9-10 | Phiên bản 2.0] 
 
 Quan trọng:
-  - Công dân nên tạo tải khoản Mail và Twitter trong điện thoại để dễ dàng tương tác và có các thông báo từ ứng dụng.
-  - [Cashshop] : Cập nhật  hòm xoay VisonGT tháng 10 
-  - [Battlepass]: Cập nhật Season 3 tháng 10
+  - [Điểm danh hằng ngày]: Ra mắt điểm danh hàng ngày (F1 / Điểm danh).
+  -  Công dân nên tạo tài khoản Twitter và Mail trong điện thoại để dễ dàng tương tác và có các thông báo từ ứng dụng.
+  -  Mở lại đổi thưởng trung thu trong 1 tuần tính từ ngày Update cho công dân trong tháng 9 chưa kịp đổi thưởng.
+
 
 Xe cộ:
   - NPC tìm xe thất lạc (NPC ở trong văn phòng của Bãi giam xe thành phố).
@@ -25,16 +26,19 @@ Hoạt động:
     + Thêm một vài khu vực loot thính mới. (Lưu ý khu vực đỏ, công dân có thể tự do phạm pháp)
     + Ngẫu nhiên nhận được “”Chìa khóa Cô kê” và “Chìa khóa Mai thúy” khi mở hòm Loot thính.
 
-Doanh nghiệp: Doanh nghiệp xe sẽ chia ra 2 doanh nghiệp là Xưởng xe Vui Cùng Cậu và Xưởng độ F17
+Ban ngành / Doanh nghiệp: Doanh nghiệp xe sẽ chia ra 2 doanh nghiệp là Xưởng xe Vui Cùng Cậu và Xưởng độ F17.
+
+  - [Cảnh sát + Bác sĩ]:
+    + Cập nhật viết hóa đơn vào F1 / Công việc
 
   - [Xưởng xe]:
-    + Ra mắt doanh nghiệp xưởng xe Vui Cùng Cậu (Sở hữu: Anh Chim Điêu)
-    + Nếu nhân viên xưởng xe đang hoạt động, công dân không thể sử dụng Sửa xe lưu động, hãy đến xưởng xe Vui Cùng Cậu để có thể sửa xe
-    + Cập nhật sửa xe lưu động sẽ chỉ sửa được động cơ xe
-    + Cập nhật skillbar khi sử dụng dụng cụ sửa xe
+    + Ra mắt doanh nghiệp xưởng xe Vui Cùng Cậu vị trí 60 (Sở hữu: Anh Chim Điêu)
+    + Nếu nhân viên xưởng xe đang hoạt động, công dân không thể sử dụng Sửa xe lưu động, hãy đến xưởng xe Vui Cùng Cậu để có thể sửa xe.
+    + Cập nhật sửa xe lưu động sẽ chỉ sửa được động cơ xe.
+    + Cập nhật skillbar khi sử dụng dụng cụ sửa xe.
 
 Nghề bẩn: 
-  - Toàn bộ nghề bẩn sẽ yêu cầu 2 cảnh sát trở lên ngoại trừ (Trộm chó: 3 cảnh sát, Rửa tiền: 4 cảnh sát, và các hoạt động cần cảnh sát ở phía trên)
+  - Toàn bộ nghề bẩn sẽ yêu cầu 2 cảnh sát trở lên (Ngoại trừ: Trộm chó + Vận chuyển mai thúy: 3 cảnh sát, Rửa tiền: 4 cảnh sát, và các hoạt động cần cảnh sát ở phía trên)
   - Tinh chỉnh toàn bộ giá tiền bẩn kiếm được
   - Ra mắt 2 nghề bẩn Coke và Mai thúy
 
@@ -48,7 +52,7 @@ Nghề bẩn:
 
 Nghề sạch: 
   - Làm mới lại giao diện tương tác của các nghề.
-  - Tinh chỉnh toàn bộ giá tiền và số điểm kinh nghiệm mỗi level của các nghề.
+  - Tinh chỉnh toàn bộ giá tiền (Tiền lương sẽ được cộng vào tiền ngân hàng) và số điểm kinh nghiệm mỗi level của các nghề.
 
   - [F17 Food]: Cập nhật F17 Food 2.0
     + Nâng cấp lên tổng cộng 10 Level (Đạt đến Level nhất định sẽ được cấp xe mới).
@@ -71,9 +75,15 @@ Nghề sạch:
   - [Xe tải]: Tăng giá giao động mỗi km.
 
 Chung:
+  - [Cashshop]:
+    + Cập nhật hòm xoay VisonGT tháng 10.
+    + Tinh chỉnh giá các xe cashshop.
+
+  - [Battlepass]: Cập nhật Season 3 tháng 10.
+
   - [Điện thoại]:
     + Cập nhật và sắp xếp lại vị trí của các ứng dụng.
-    + Đồng bộ thông báo điện thoại với các thông báo nghề trong thành phố, có thể biết thời gian làm việc qua Mail.
+    + Đồng bộ thông báo điện thoại với các thông báo trong thành phố, có thể biết thời gian làm việc qua Mail.
 
   - [Nhiệm vụ]: Tinh chỉnh phần thưởng nhận được của nhiệm vụ hằng ngày và hằng giờ.
 
@@ -82,29 +92,30 @@ Chung:
     + Thêm chức năng quản lý tiền và ví trên Sàn giao dịch.
 
   - [Ngân hàng]: Cập nhật Ngân hàng 2.0
-    + Thêm tính năng tạo tài khoản chia sẻ, có thể sử dụng chung với công dân khác.
     + Dễ dàng quản lý chi tiêu giữa tài khoản cá nhân - doanh nghiệp - gang.
 
   - [Trạm xăng]:
     + Làm mới giao diện tương tác trạm xăng.
     + Thêm tính năng lựa chọn trả bằng Tiền mặt hay Quẹt thẻ.
+    + Thay đổi can xăng sang hệ thống mới, công dân sẽ cần phải mua lại can xăng (Can xăng cũ có thể vứt đi).
     + Thêm vật phẩm “Máy hút xăng” đi kèm tính năng trộm xăng của người khác (Máy hút xăng phải chế tạo).
 
   - [Giftbox]: Cập nhật Giftbox 2.0.
     + Làm lại giao diện UI khi mở các hộp.
     + Ra mắt nhiều loại hòm đồ mới chờ các công dân khám.
     + [Hòm F17City]: Là hòm tổng của thành phố, chứa các hòm khác bên trong.
-    + [Hòm kỳ trân các]: Chứa các vât phẩm đặc biêt trong thành phố như vé xp battlepass - voucher cashshop - voucher tặng xe,....
-    + [Hòm exp nghề]: Chứa các vé tăng 10exp của các nghề trong thành phố.
+    + [Hòm kỳ trân các]: Đây là hòm siêu xịn sò, ra các món đồ + vật phẩm cash shop trong game. 
+    + [Hòm exp nghề]: Đây là hòm ra các cuộn tăng exp của các nghề.
     + [Hòm mảnh ghép]: Chứa các mảnh bản đồ gợi ý các điểm ẩn (Thu thập đủ 4 mảnh cùng loại để chế tạo ra bản đồ hoàn chỉnh).
-    + [Hòm dụng cụ làm bẩn]: Chứa các nguyên liệu để thực hiện nghề bẩn.
-    + [Hòm nguyên liệu sơ/trung/cao cấp]: Chứa các nguyên liệu đa dạng có trong Thành phố.
-    + [Hòm thính chí tôn - Hòm thính theo các mốc]: Chứa phần thưởng dành cho các công dân nổ lực tham gia Event Loot Thính.
-    + [Hòm thám thính]: Chứa phần thưởng dành cho các công dân nổ lực tham gia Event Thám Thính.
+    + [Hòm dụng cụ làm bẩn]: Đây là hòm ra các dụng cụ phục vụ cho quá trình làm bẩn.
+    + [Hòm vật phẩm sơ/trung/cao cấp]: Chứa các nguyên liệu đa dạng có trong Thành phố.
+    + [Hòm thính chí tôn - Hòm thính theo các mốc]: Chứa phần thưởng dành cho các công dân nỗ lực tham gia Event Loot Thính.
+    + [Hòm thám thính]: Chứa phần thưởng dành cho các công dân nỗ lực tham gia Event Thám Thính.
 
-  - [Chế tạo]:
+  - [Chế tạo / Đổi thưởng]:
     + Tinh chỉnh nguyên liệu chế tạo đồ sạch và đồ bẩn.
-    + Giảm 50% các nguyên liệu để chế tạo Súng.
+    + Tinh chỉnh vật phẩm đổi thưởng từ Vé tái chế.
+    + Giảm 50% các nguyên liệu để chế tạo Súng lục.
 
   - [Kẻ lái buôn]: Thay đổi thời gian xuất hiện từ 18h - 8h ingame
 
@@ -114,6 +125,7 @@ Chung:
     + Làm mới giao diện phím Home.
     + Làm mới giao diện chọn nhân vật.
     + Làm mới giao diện UI thành phố.
+    + Làm mới hình thức thuê và trả phương tiện thuê.
     + Chỉnh sửa tên - khối lượng - độ bền các vật phẩm.
 
 …Và nhiều chỉnh sửa khác trong Thành phố.
