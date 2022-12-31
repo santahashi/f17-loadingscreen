@@ -1,45 +1,24 @@
-Sự kiện:
-  - [Sự Kiện Noel]: Diễn ra xuyên suốt tháng 12.
-    + Sau 10’ sẽ xuất hiện ngẫu nhiên C Y THÔNG NOEL quanh thành phố, công dân nhanh chóng thu thập cây noel để nhận phần quà từ Thành phố F17City (Có thông báo mỗi khi xuất hiện).
-    + Vị trí cây thông Noel hiển thị bằng vùng vàng trên bản đồ.
-
-  - [Cây Thông Giấy]: Diễn ra xuyên suốt tháng 12.
-    + Hoàn thành nghề F17 Food và Xây dựng sẽ ngẫu nhiên nhận được “Đồ trang trí” và “Giấy bìa”.
-    + Ghép 2 vật phẩm tại NPC sự kiện ở Bãi đỗ xe trung tâm để tạo ra Cây thông giấy.
-    + Vật phẩm quy đổi Cây thông giấy sẽ được ra mắt sau vài ngày diễn ra sự kiện.
-
-  - [Tuần Lễ Vàng]: Công dân đón chờ tuần lễ vàng sẽ được thông báo trên Discord.
-
-Quan trọng:
-  - [Battlepass]: Cập nhật tháng 12 (Vé 500xp battlepass tháng 11 sẽ không còn sử dụng được nữa).
-  - [Điểm danh] : Cập nhật tháng 12.
-
-Ra mắt:
-  -  [Nhà cửa]:
-    + Công dân có thể thấy Nhà Đang Bán trên bản đồ và có thể xem trước ngoại thất của nhà.
-    + Thoải mái - tự do trang trí nội thất trong nhà ở bất kì vị trí nào.
-
-Nghề sạch:
-  - [Nông trại],  [Texas Chicken] , [Thợ mỏ], [Tiều phu]:
-    + Thay đổi quy trình làm việc sang auto.
-    + Khi sử dụng vật phẩm tăng may mắn, sẽ có tỉ lệ nhận được thêm vật phẩm nghề.
-
-  - [F17 Food], [Xây dựng]:
-    + Chỉnh sửa hiển thị + thông báo nghề để dễ dàng thực hiện công việc hơn.
-    + Khi sử dụng vật phẩm tăng may mắn, sẽ có tỉ lệ nhận được thêm tiền tip khi hoàn thành công việc.
-
-  - [Xe tải]:
-    + Fix lỗi ngẫu nhiên công dân không nhận được việc.
-    + Fix một số cont nặng xe tải k kéo nổi.
-    + Chỉnh sửa hiển thị + thông báo nghề để dễ dàng thực hiện công việc hơn.
-
-Lưu ý: (Đọc hướng dẫn quy trình tại npc nghề hoặc xem CẨM NANG T N THỦ).
-
-Nghề bẩn:
-  -  [Trộm xe]: Giảm thời gian chờ đơn trộm xe xuống 8p/đơn (Yêu cầu phải có 1 cảnh sát đang hoạt động để nhận được đơn).
-
-Chung:
-  -  [Chung]:
-    + Cập nhật giao diện HUD (Công dân có thể dùng lệnh /chinhthongbao để chỉnh bảng thông báo về vị trí thuận tiện cho mình).
-    + Chuyển đeo/tháo seatbelt về phím B, công dân nên vào Setting/Key binding/Fivem tìm dòng “Deo/thao seatbelt” để đổi sang nút B cho đồng bộ.
-    + Tăng thời gian hiển thị thông báo lên 10s.
+1/ Phím tắt cơ bản:
+  [TAB]: Mở túi đồ/cốp xe
+  [F1]: Menu chính
+  [ALT]: Tương tác (Sử dụng mắt)
+  [M]: Điện thoại
+  [T]: Mở khung chat
+  [N]: Nói chuyện
+  [HOME]: Bảng thông tin
+  
+2/ Lệnh chat cơ bản
+  [/gan] Chat gần
+  [/bacsiai] Gọi bác sĩ AI khi bị ngất
+  [/em] Mở bảng hành động
+  [/e c] Huỷ hành động
+  
+DÀNH CHO CÔNG DÂN MỚI
+  + Công dân ấn TAB (Mở túi đồ) kéo "HỘP QUÀ NEWBIE" và "CẨM NANG TÂN THỦ" vào ô SỬ DỤNG (Hoặc nhấp đôi sử dụng).
+  + Đọc "CẨM NANG TÂN THỦ" để tìm hiểu thành phố F17.
+  + Công dân lấy xe được tặng từ "HỘP QUÀ NEWBIE" tại gara (F1/Mở garage) và di chuyển đến Toà thị chính (Noi nhận nghề) để nhận nghề.
+  
+CÁC SỰ KIỆN XUYÊN SUỐT
+  + Điểm danh hằng ngày (F1/Điểm danh)
+  + Battlepass (F1/Battlepass)
+  + Nhiệm vụ hằng ngày - hằng giờ (Gara trung tam)
